@@ -1,7 +1,7 @@
 {
-  "name": "my-blog",
+  "name": "simon-wp-guides",
   "version": "1.0.0",
-  "description": "",
+  "description": "wordpress notes and tutorials",
   "main": "index.js",
   "scripts": {
     "start": "npx @11ty/eleventy --serve & npx tailwindcss -i ./tailwind.css -o _site/assets/styles/tailwind.css --watch",
